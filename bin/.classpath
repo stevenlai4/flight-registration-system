@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/steven/Desktop/SFU/2018 Spring/CMPT 354/Assignments/Modified Assignment 7/Assignment 7/JAR/mssql-jdbc-6.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/steven/Desktop/SFU/2018 Spring/CMPT 354/Assignments/Modified Assignment 7/Assignment 7/JAR/rs2xml.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
